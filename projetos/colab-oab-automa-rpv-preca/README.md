@@ -1,17 +1,20 @@
 # Colaboração da OAB para a automação de RPVs e precatórios
 
-> Laboratório Nova Justiça busca a colaboração de advogados para a automação das requisições de pagamento
-
+> Card do Projeto
+> 
 <!-- tabs:start -->
 ### **Informações Gerais**
 
 - **Projeto**: Colaboração da OAB para a automação de RPVs e precatórios
+  
 - **Idealizador**: Advogado Ronald Mota (OAB Imperatriz)
+  
 - **Grupo de Trabalho**: 
   - Advogado Ronald Mota (OAB Imperatriz)
   - Gabriela Cecilia Pereira Nolasco (OAB Açailândia)
   - Gilson Rodrigues de Souza (NUCAD/SSJ ITZ)
   - Luciano Augusto Linhares Santos (NUCAD/SSJ ITZ)
+  
 - **Data de início**: 29/09/2022
 ### **Descrição**
 
@@ -34,5 +37,6 @@ No entanto, embora o robô imprima mais rapidez ao procedimento tradicional hoje
 
 Compareceram na reunião o Juiz Federal Hugo Abas Frazão, Coordenador do Laboratório de Inovação da SJMA e Titular da 2.ª Vara Federal de Imperatriz; Juiz Federal Substituto da mesma 2.ª Vara, Georgiano Rodrigues Magalhães Neto; Eduardo Minuzzi Niederauer, Diretor de Secretaria da 2.ª Vara de Imperatriz; Manoel Gustavo Fernades Kliemann, Diretor de Secretaria da Vara Federal de Picos-PI e idealizador do Jefinho/Dorácio; Dr. Bruno Guilherme Charles de Almeida, Presidente da OAB Imperatriz; Dr. Filipe Francisco Santos de Andrade, Presidente da OAB Açailândia; Dr. Ronald Mota, Presidente da Comissão de Direito Previdenciário da OAB Imperatriz; Dra. Gabriela Cecilia Pereira Nolasco, Presidente da Comissão de Direito Previdenciário da OAB Açailândia; demais advogadas e advogados que militam na jurisdição federal em Imperatriz; David da Costa Franco Lima, Supervisor da SEPIP da 2.ª Vara de Imperatriz; e Ana Paula de Oliveira Fernandes, Supervisora da SEMAD/SECAD-MA.
 ### **Recursos**
+
 
 <!-- tabs:end -->
