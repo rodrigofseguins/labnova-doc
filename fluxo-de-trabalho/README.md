@@ -1,7 +1,6 @@
 # Fluxos de Trabalho
 
 >TODO: Texto introdutório pequeno e geral
->TODO: Testar apresentação mais visual na forma de cards
 
 ## Fluxo de Projetos
 
