@@ -1,6 +1,6 @@
 # Fluxos de Trabalho
 
->TODO: Texto introdutório pequeno e geral
+> Esta seção apresenta os fluxos de trabalho de projetos e para demandas do público em geral.
 
 ## Fluxo de Projetos
 
