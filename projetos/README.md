@@ -1,4 +1,4 @@
-# PROJETOS
+# <span><i class="fa-solid fa-list-check"></i> </span> PROJETOS
 
 > Esta seção lista todos os projetos selecionados pelo LABNOVA.
 

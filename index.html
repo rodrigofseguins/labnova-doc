@@ -17,12 +17,10 @@
     <link rel="shortcut icon" href="./assets/favicon/favicon.ico" type="image/x-icon" />
     <!-- Tema  -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
-    <!-- FontAwesome -->
-    <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
-    <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
-    <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
-    <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
+    <!-- docsify-material-icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/>
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
   <body>
     <div id="app"></div>
@@ -35,8 +33,10 @@
         loadSidebar: true,
         subMaxLevel: 3,
         loadNavbar: true,
+        loadFooter: true,
+        loadFooter: '_footer.md',
       tabs: {
-        persist    : true,      // default
+        persist    : false,      // default
         sync       : true,      // default
         theme      : 'classic', // default
         tabComments: true,      // default
@@ -50,8 +50,8 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <!-- search -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-    <!-- docsify-fontawesome -->
-    <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+    <!-- use the footer plugin latest version -->
+    <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
 
   </body>
 </html>

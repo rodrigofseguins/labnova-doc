@@ -1,0 +1,1 @@
+Mantido pelo time ![img](../assets/favicon/favicon-16x16.png) [LABNOVA](http://localhost:3000/#/composicao/). Orgulhosamente publicado com [docsify](https://docsify.js.io).
