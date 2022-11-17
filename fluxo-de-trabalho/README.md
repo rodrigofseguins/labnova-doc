@@ -1,4 +1,4 @@
-# <span><i class="fa-solid fa-diagram-project"></i> </span> Fluxos de Trabalho
+# Fluxos de Trabalho
 
 > Esta seção apresenta os fluxos de trabalho de projetos e para demandas do público em geral.
 

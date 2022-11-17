@@ -27,7 +27,7 @@ O primeiro passo no emprego do SIREA é o registro dos usuários (especialmente 
 Uma segunda ideia, complementar à tecnologia SIREA, é o robô de RPVs, apresentado pelo Presidente da Comissão de Direito Previdenciário da OAB Imperatriz, Dr. Ronald Mota, aos Juízes Federais da 2.ª Vara Federal, Dr. Hugo Abas Frazão e Dr. Georgiano Magalhães Neto. O mecanismo funciona da seguinte forma: mesmo parcela dos advogados não seguindo o SIREA, a OAB patrocinará ferramenta digital que dará à Justiça Federal em Imperatriz poder de automação sobre o resíduo de pedidos de pagamento a serem cadastrados e migrados diretamente por servidor judiciário.
 De fato, o robô de RPVs poderá ajudar o serviço da Justiça, eliminando o esforço humano repetitivo que persiste no procedimento tradicional. Entretanto, tal protótipo é menos ágil do que o SIREA, o que significa que o advogado que registrar o RPV diretamente pelo mencionado sistema (SIREA) provavelmente alcançará a conclusão do pagamento de RPV ainda mais rápido.
 
-Em outras palavras, o SIREA (desenvolvido pelo CNJ) e o robô de RPV (projetado por iniciativa privada) são tecnologias diferentes, mas virão juntas como medidas de inovação a serem experimentadas na Subseção Judiciária de Imperatriz. Com isso, o LabNOVA sugeriu que a SSJ teste também a criação de uma central de RPVs e precatórios que sirva às duas Varas Federais de Imperatriz, sob coordenação do Núcleo Administrativo da DISUB/ITZ. Além disso, para decifrar a melhor estratégia de modernização nesse assunto, o LabNOVA mais uma vez destacou encaminhamentos tendentes à articulação interinstitucional entre OAB e Justiça Federal.
+Em outras palavras, o SIREA (desenvolvido pelo TRF1) e o robô de RPV (projetado por iniciativa privada) são tecnologias diferentes, mas virão juntas como medidas de inovação a serem experimentadas na Subseção Judiciária de Imperatriz. Com isso, o LabNOVA sugeriu que a SSJ teste também a criação de uma central de RPVs e precatórios que sirva às duas Varas Federais de Imperatriz, sob coordenação do Núcleo Administrativo da DISUB/ITZ. Além disso, para decifrar a melhor estratégia de modernização nesse assunto, o LabNOVA mais uma vez destacou encaminhamentos tendentes à articulação interinstitucional entre OAB e Justiça Federal.
 
 Em primeiro lugar, a Justiça Federal em Imperatriz e a OAB poderão estabelecer reuniões e compromissos conjuntos para lidar com o SIREA e suas enormes vantagens para um serviço judiciário eficiente.
 
@@ -36,6 +36,24 @@ Em segundo lugar, os advogados, caso optem por não utilizar o SIREA, serão ben
 No entanto, embora o robô imprima mais rapidez ao procedimento tradicional hoje percorrido pelas 1.ª e 2.ª Varas Federal em ITZ quanto às ordens de pagamento, por outro lado, parece mais demorado do que o SIREA. Em vista disso, o Laboratório sugeriu que os advogados da jurisdição federal de Imperatriz utilizem o SIREA e divulguem tal prática. Com isso, a Justiça Federal em Imperatriz só utilizará o robô de RPV para as ordens de pagamento que não forem registradas pelos próprios advogados. Em síntese, as Varas Federais de Imperatriz testarão a cooperação com a OAB para manter os pagamentos dos RPV em dia, seja com o apoio das tecnologias digitais, seja com a cooperação humana de advogados e stakeholders. O objetivo do presente projeto é migrar os RPVs e precatórias pendentes, acelerando as respostas da Justiça.
 
 Compareceram na reunião o Juiz Federal Hugo Abas Frazão, Coordenador do Laboratório de Inovação da SJMA e Titular da 2.ª Vara Federal de Imperatriz; Juiz Federal Substituto da mesma 2.ª Vara, Georgiano Rodrigues Magalhães Neto; Eduardo Minuzzi Niederauer, Diretor de Secretaria da 2.ª Vara de Imperatriz; Manoel Gustavo Fernades Kliemann, Diretor de Secretaria da Vara Federal de Picos-PI e idealizador do Jefinho/Dorácio; Dr. Bruno Guilherme Charles de Almeida, Presidente da OAB Imperatriz; Dr. Filipe Francisco Santos de Andrade, Presidente da OAB Açailândia; Dr. Ronald Mota, Presidente da Comissão de Direito Previdenciário da OAB Imperatriz; Dra. Gabriela Cecilia Pereira Nolasco, Presidente da Comissão de Direito Previdenciário da OAB Açailândia; demais advogadas e advogados que militam na jurisdição federal em Imperatriz; David da Costa Franco Lima, Supervisor da SEPIP da 2.ª Vara de Imperatriz; e Ana Paula de Oliveira Fernandes, Supervisora da SEMAD/SECAD-MA.
+
+**Saiba mais sobre o SIREA**
+
+Sirea é o Sistema de Requisição de Pagamento Ágil (inicialmente, o sistema se chamava Execução Célere). Permite o cadastramento de requisições de pagamento de forma ágil e rápida pelos advogados e varas contemplando a transparência entre os Executados, Advogados, Magistrados e as partes envolvidas.
+
+**Informações Adicionais**
+
+	•	Unidade Gestora: SECIN - email: secin@trf1.jus.br.
+	•	Unidade responsável: SESPA - email: sespa@trf1.jus.br
+	•	Coordenação responsável: GAGER - gager@trf1.jus.br
+	•	Linguagem de programação: java8 e angular 10+
+	•	Banco de dados: postgres
+	•	Servidor de aplicação: wildfly 12
+	•	Interfaces: web
+	•	Link de acesso: https://sistemas.trf1.jus.br/sirea
+	•	Coordenação do projeto: Dr. Náiber Pontes de Almeida - Gager - naiber.almeida@trf1.jus.br
+	•	Scrum master do projeto: Wallace - tr301222 - wallace.sousa@trf1.jus.br
+
 ### **Recursos**
 
 

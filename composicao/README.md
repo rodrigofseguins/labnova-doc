@@ -1,4 +1,4 @@
-# <span><i class="fa-solid fa-users-between-lines"></i> </span> COMPOSIÇÃO
+# COMPOSIÇÃO
 
 > O LabNova é chefiado pelo Coordenador de Laboratório, função que pode ser ocupada por juiz federal ou servidor judiciário de carreira. Tal Coordenador recebe o apoio administrativo imediato dos órgãos de gestão e modernização da Seção Judiciária do MA, com destaque à SEMAD e à SECAD.
 O Laboratório não conta com pesquisadores credenciados trabalhando exclusivamente nos projetos. Na verdade, os próprios servidores e usuários impulsionam e produzem os fatos de inovação. Ao Laboratório, portanto, cabe fornecer a cultura e o método de trabalho ao desenvolvimento de projetos, mas o avanço efetivo da administração da justiça acontece pelas mãos dos colaboradores de cada projeto.

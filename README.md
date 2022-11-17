@@ -1,7 +1,7 @@
-#  <span><i class="fa-solid fa-chalkboard-user"></i></span> APRESENTAÇÃO
+# APRESENTAÇÃO
 > Bem vindos(as)!!
 
-O Laboratório de Inovação Nova Justiça (LabNOVA) é um mecanismo de desenvolvimento e inovação judicial instituído pela Seção Judiciária do Estado do Maranhão (SJMA), do Tribunal Regional Federal da Primeira Região (TRF1).Aludido mecanismo funciona como um escritório aberto (openoffice) dedicado a dinamizar a jurisdição federal maranhense, e a contribuir para o bem-estar dos servidores e usuários da justiça, mediante a aplicação de ideias transformadoras.
+O Laboratório de Inovação Nova Justiça (LabNOVA) é um mecanismo de desenvolvimento e inovação judicial instituído pela Seção Judiciária do Estado do Maranhão (SJMA), do Tribunal Regional Federal da Primeira Região (TRF1). Aludido mecanismo funciona como um escritório aberto (openo ffice) dedicado a dinamizar a jurisdição federal maranhense, e a contribuir para o bem-estar dos servidores e usuários da justiça, mediante a aplicação de ideias transformadoras.
 
 Na iniciativa privada, companhias consideradas pioneiras têm fundado Innovation Labs para acelerar o desenho de novos produtos, acompanhar tendências de mercado e adiantar soluções aos consumidores.
 
